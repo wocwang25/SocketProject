@@ -1,0 +1,54 @@
+{
+    "Autoload": 10,
+    "Sender": [
+        "ahihi@testing.com",
+        "yusato@gmail.com"
+    ],
+    "Receiver": [
+        "ahuu@testing.com",
+        "hoangson@gmail.com",
+        "hoangsang@gamil.com",
+        "son@gmail.com",
+        "sang@gmail.com",
+        "son",
+        "sang"
+    ],
+    "Filter": [
+        "D:\\socket project\\ClientProject.py\\Mail Filter\\Inbox",
+        "D:\\socket project\\ClientProject.py\\Mail Filter\\Work",
+        "D:\\socket project\\ClientProject.py\\Mail Filter\\Project",
+        "D:\\socket project\\ClientProject.py\\Mail Filter\\Important",
+        "D:\\socket project\\ClientProject.py\\Mail Filter\\Spam"
+    ],
+    "Inbox": [],
+    "Work": [
+        "<ahihi@testing.com><demo chuong trinh mail client><attachment>"
+    ],
+    "Project": [],
+    "Important": [],
+    "Spam": [],
+    "Sender_Project": [
+        "ahihi@testing.com",
+        "ahuu@testing.com"
+    ],
+    "Subject": [
+        "urgent",
+        "ASAP",
+        "instant",
+        "now",
+        "deadline"
+    ],
+    "Content": [
+        "report",
+        "meeting"
+    ],
+    "Spam_Keywords": [
+        "hack",
+        "crack",
+        "virus",
+        "free",
+        "voucher",
+        "discount",
+        "bonus"
+    ]
+}
